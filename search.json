@@ -91,7 +91,7 @@
     "href": "presentations.html",
     "title": "8  Using \\(\\LaTeX\\) for Presentations",
     "section": "",
-    "text": "We also strongly recommend that you create all of your presentations with \\(\\LaTeX\\), too. You can do so using the function \\(\\texttt{\\documentclass{beamer}}\\).",
+    "text": "We also strongly recommend that you create all of your presentations with \\(\\LaTeX\\), too. You can do so using the function \\documentclass{beamer}.",
     "crumbs": [
       "Documents",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Using $\\LaTeX$ for Presentations</span>"
