@@ -80,7 +80,7 @@
     "href": "articles.html",
     "title": "7  Using \\(\\LaTeX\\) for Articles",
     "section": "",
-    "text": "TO DO",
+    "text": "We strongly encourage you to use \\(\\LaTeX\\) when writing your articles. Of course, you can draft your writing in programs like Google Docs (which you may prefer), but your polished versions should be .pdf files created from a .tex file.\nWhy? Common text editors like Google Docs do not yet incorporate math notation in a nice way yet. (Yes, it is feature. No, it is not good). As a budding social scientist, your work will likely need math notation in some form or another. This is exactly why \\(\\LaTeX\\) is useful. It provides a simple, replicable way to incorporate math notation into your documents.\nPlus, \\(\\LaTeX\\) has many functions that make the writing process easier. While not exhaustive, these include general formatting functions (e.g., centering, italics, etc.), bibliographic features (e.g., references and citations), and organizational abilities (e.g., connecting multiple documents together).",
     "crumbs": [
       "Documents",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Using $\\LaTeX$ for Articles</span>"
