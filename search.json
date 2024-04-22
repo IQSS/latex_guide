@@ -14,7 +14,7 @@
     "href": "comparison.html",
     "title": "1  Comparison of Applications",
     "section": "",
-    "text": "TO DO TO DO",
+    "text": "There are a lot of \\(\\LaTeX\\) editors that exist. Depending on what editing power, user experience, and learning cost you want out of your editor, we have three recommendations that you may wish to choose. However, these are not exhaustive, and there may be additional editors that you’d like to use.\nIf you prefer an editor with a lower startup investment and are okay with the editor having less editing power, you may wish to choose Overleaf.\n\\begin{table}[]\n&\n& & & \\ & & & & \\ & & & & \\end{tabular} \\end{table}",
     "crumbs": [
       "Overview",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Comparison of Applications</span>"
