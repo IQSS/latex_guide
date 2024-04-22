@@ -58,7 +58,7 @@
     "href": "github.html",
     "title": "5  Using GitHub",
     "section": "",
-    "text": "To DO",
+    "text": "For all of your file storage needs, we recommend that you use GitHub, regardless of which application you choose to use for text editing.\nBy keeping your projects inside of individual repositories, you can keep all of your project-related files (including your .tex files) organized and easy-to-find.\nAdditionally, this will better prepare you for collaborating with others, as you can share all of your code, data, and files by simply sharing the GitHub repository for your project.\nGitHub has a lot of useful information if you are not already familiar with the website. We strongly recommend that you are acquanted with GitHub and its uses.",
     "crumbs": [
       "Suggested Tools",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Using GitHub</span>"
