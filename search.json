@@ -14,7 +14,7 @@
     "href": "comparison.html",
     "title": "1  Comparison of Applications",
     "section": "",
-    "text": "There are a lot of \\(\\LaTeX\\) editors that exist. Depending on what editing power, user experience, and learning cost you want out of your editor, we have three recommendations that you may wish to choose. However, these are not exhaustive, and there may be additional editors that you’d like to use.\nIf you prefer an editor with a lower startup investment and are okay with the editor having less editing power, you may wish to choose Overleaf.\n\n\n\n\n\n\n\nPros\nCons\n\n\n\n\n- Collaborative \\ - Online, no installation \\ - Very modern and intuitive design\n- Reliant on UI, cannot do as much with keybindings \\ - Live editing can cause others to not be able to compile a file \\ - Not customizable",
+    "text": "There are a lot of \\(\\LaTeX\\) editors that exist. Depending on what editing power, user experience, and learning cost you want out of your editor, we have three recommendations that you may wish to choose. However, these are not exhaustive, and there may be additional editors that you’d like to use.\nIf you prefer an editor with a lower startup investment and are okay with the editor having less editing power, you may wish to choose Overleaf.\n\n\n\n\n\n\n\nPros\nCons\n\n\n\n\n- Collaborative  - Online, no installation  - Very modern and intuitive design\n- Reliant on UI, cannot do as much with keybindings  - Live editing can cause others to not be able to compile a file  - Not customizable",
     "crumbs": [
       "Overview",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Comparison of Applications</span>"
